@@ -1,2 +1,4 @@
 # optimizationAlgorithm
-Artificial Algea Algorithm
+Artificial Algea Optimization
+Grey Wolf Optimizer
+Harmoni Search
